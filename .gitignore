@@ -1,0 +1,25 @@
+# Data and heavy storage files
+*.csv
+*.zip
+*.json
+*.xlsx
+data/
+
+# Python execution files and environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+env/
+venv/
+
+# Jupyter Notebook outputs
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# VS Code IDE configurations
+.vscode/
+.history/
+*.code-workspace
